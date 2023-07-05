@@ -1,0 +1,1 @@
+This repository contains the "Poverty Mapping in Scotland" project. The project aims to visualize, analyze, and understand the spatial distribution of poverty across Scotland using various GIS techniques and data analytics.
